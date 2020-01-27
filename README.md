@@ -1,7 +1,7 @@
 # LeNet5
 PyTorch implement of LeNet5
 
-root@yangshuo:/home/yangshuo/Documents/cnn/lenet/code# python lenet5.py 
+root@yangshuo:/home/yangshuo/Documents/cnn/lenet/code# python lenet5.py
 [1, 100] loss: 1.184440755546
 [1, 200] loss: 0.362483159751
 [1, 300] loss: 0.271367201656
